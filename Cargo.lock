@@ -1613,6 +1613,7 @@ version = "0.1.0"
 dependencies = [
  "anyhow",
  "kalosm",
+ "regex",
  "serde",
  "serde_json",
  "tokio",
